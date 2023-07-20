@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    padding: 400px 460px 400px 460px;
+}
+#box {
+    background-color: white;
+    font-family: 'Hind Siliguri', sans-serif;
+    letter-spacing: 0px;
+}
+.box1 {
+    display: flex;
+    justify-content: space-between;
+}
+.left {
+    padding: 35px 15px 35px 20px;
+}
+.center {
+    width: 100%;
+    line-height: 0px;
+    margin-top: 25px;
+}
+.center h1 {
+    font-size: 15px;
+}
+.right {
+    padding: 35px 15px 35px 20px;
+}
+img {
+    width: 100%;
+}
+.box3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 15px 5px 15px;
+}
+.box4 {
+    padding: 15px;
+    font-size: 15px; 
+    line-height: 19px;
+}
